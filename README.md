@@ -1,5 +1,6 @@
 # Neural Network Training on MNIST Dataset
 ![PyTorch Logo](PyTorch-01.png)
+
 This code demonstrates how to train a simple neural network on the MNIST dataset using PyTorch. It follows a step-by-step procedure to define the network architecture, load the dataset, train the model, and evaluate its accuracy.
 
 ## Prerequisites
